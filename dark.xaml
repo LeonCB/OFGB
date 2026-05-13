@@ -35,7 +35,7 @@
         </Setter>
         <Style.Triggers>
             <Trigger Property="IsMouseOver" Value="True">
-                <Setter Property="Background" Value="#F5C2E7" />
+                <Setter Property="Background" Value="#98E9FB" />
                 <Setter Property="Foreground" Value="#1E1E2E" />
             </Trigger>
             <Trigger Property="IsPressed" Value="True">
@@ -78,7 +78,7 @@
     </Style>
     <SolidColorBrush x:Key="OptionMark.Static.Background" Color="Transparent" />
     <SolidColorBrush x:Key="OptionMark.Static.Border" Color="#585B70" />
-    <SolidColorBrush x:Key="OptionMark.Static.Glyph" Color="#F5C2E7" />
+    <SolidColorBrush x:Key="OptionMark.Static.Glyph" Color="#98E9FB" />
     <SolidColorBrush x:Key="OptionMark.MouseOver.Background" Color="Transparent" />
     <SolidColorBrush x:Key="OptionMark.MouseOver.Border" Color="#89B4FA" />
     <SolidColorBrush x:Key="OptionMark.MouseOver.Glyph" Color="#f9c5eb" />
